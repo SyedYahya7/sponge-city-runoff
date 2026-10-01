@@ -23,7 +23,7 @@ supervised GIS classification, and PMD annual rainfall of 950 mm/yr.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/sponge-city-runoff.git
+git clone https://github.com/<SyedYahya7>/sponge-city-runoff.git
 cd sponge-city-runoff
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
