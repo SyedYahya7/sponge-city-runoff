@@ -1,0 +1,7 @@
+class_name,area_m2,c_baseline,c_lid,intervention_ratio,c_new_override
+Roads,195572.4,0.9,0.25,0.6,0.4125
+Buildings + parking,409056.2,0.85,0.4,0.7,
+Sports ground,425405.5,0.35,0.2,0.15,
+Forest,885007.0,0.2,0.1,0.3,
+Barren field,486836.8,0.45,0.2,0.4,
+Water bodies,445923.1,0.05,0.05,0.0,

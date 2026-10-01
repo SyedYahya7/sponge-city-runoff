@@ -1,0 +1,10 @@
+,value
+total_area_m2,7037070.0
+composite_c_baseline,0.38309523708020526
+composite_c_post,0.2745905433653495
+runoff_baseline_m3yr,2561074.6
+runoff_post_lid_m3yr,1835697.2312499997
+recharge_wells_m3yr,95000.0
+runoff_final_m3yr,1740697.2312499997
+reduction_lid_only_pct,28.32316437600062
+reduction_final_pct,32.03254480560622

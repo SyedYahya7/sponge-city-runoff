@@ -1,0 +1,16 @@
+[project]
+name = "spongecity"
+version = "0.1.0"
+description = "Rational Method runoff model for Sponge City / LID scenario analysis"
+requires-python = ">=3.9"
+dependencies = ["pandas>=2.0", "matplotlib>=3.7"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
